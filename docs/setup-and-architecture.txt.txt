@@ -1,0 +1,6 @@
+This app consists of:
+- index.html: Main UI
+- app.js: Handles user interaction
+- style.css: Basic layout
+
+Deployment via GitHub Pages.
